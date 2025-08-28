@@ -82,4 +82,3 @@ priyanshu-fca
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by [Priyansh Rajput](https://github.com/codedbypriyansh)
