@@ -20,7 +20,7 @@
 
 ```bash
 git clone https://github.com/codedbypriyansh/Priyansh-Bot-V2.git
-cd Priyansh-Bot-V2
+cd b
 ```
 
 ### 2. Dependencies Installed
